@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Google",
+        "img": "./source/img/apps/google.jpg",
+        "location": "https://www.google.com"
+    },
+    {
+        "title": "Youtube",
+        "img": "./source/img/apps/yt.png",
+        "location": "https://www.youtube.com"
+    },
+    {
+        "title": "Spotify",
+        "img": "./source/img/apps/spot.png",
+        "location": "https://open.spotify.com"
+    },
+    {
+        "title": "Twitter",
+        "img": "./source/img/apps/twt.png",
+        "location": "https://twitter.com/explore"
+    },
+    {
+        "title": "Reddit",
+        "img": "./source/img/apps/rt.png",
+        "location": "https://reddit.com"
+    },
+    {
+        "title": "Twitch",
+        "img": "./source/img/apps/tich.jpg",
+        "location": "https://twitch.tv"
+    },
+    {
+        "title": "Discord",
+        "img": "./source/img/apps/dd.jpg",
+        "location": "https://discord.com/app"
+    },
+    {
+        "title": "CoolMathGames",
+        "img": "./source/img/apps/cmg.png",
+        "location": "https://www.coolmathgames.com"
+    },
+    {
+        "title": "Geforce Now",
+        "img": "./source/img/apps/gfnow.png",
+        "location": "https://play.geforcenow.com"
+    },
+    {
+        "title": "Y8",
+        "img": "./source/img/apps/y8.png",
+        "location": "https://www.y8.com"
+    }
+]

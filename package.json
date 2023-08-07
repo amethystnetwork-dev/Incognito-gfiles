@@ -1,14 +1,17 @@
 {
-  "name": "incognito-gfiles",
-  "version": "1.0.0",
-  "description": "Incognito Game Files",
-  "type": "module",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
-  "files": [
-    "static",
-    "lib"
-  ],
-  "author": "",
-  "license": "GPL-3.0-or-later"
+	"name": "@amethystnetwork-dev/incognito-gfiles",
+	"version": "1.0.0",
+	"description": "Incognito Game Files",
+	"type": "module",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
+	"files": [
+		"static",
+		"lib"
+	],
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	},
+	"author": "",
+	"license": "GPL-3.0-or-later"
 }

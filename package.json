@@ -12,6 +12,10 @@
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/amethystnetwork-dev/Incognito-gfiles"
+	},
 	"author": "",
 	"license": "GPL-3.0-or-later"
 }

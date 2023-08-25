@@ -9,13 +9,10 @@
 		"static",
 		"lib"
 	],
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com"
-	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/amethystnetwork-dev/Incognito-gfiles"
 	},
-	"author": "",
+	"author": "Game creators and Amethyst Network contributers",
 	"license": "GPL-3.0-or-later"
 }
